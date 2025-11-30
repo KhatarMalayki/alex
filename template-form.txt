@@ -1,0 +1,155 @@
+========================================
+TEMPLATE FORM PENGAJUAN
+========================================
+
+Gunakan template di bawah ini untuk mengisi form pengajuan.
+Copy paste ke WhatsApp grup, lalu isi data yang sesuai.
+
+========================================
+FORM PENGAJUAN A1 (USAHA)
+========================================
+
+Form Pengajuan A1
+
+Tanggal: 29-11-2024
+Nama: [Nama Lengkap]
+Usaha: [Jenis Usaha]
+Plafon Pengajuan: Rp [Nominal]
+Tenor: [Tenor dalam bulan]
+Nomor Telepon: [Nomor HP]
+Nama dan nomor HP pasangan: [Nama Pasangan] / [Nomor HP Pasangan]
+Bank/Nomor Rekening/Atas Nama: [Nama Bank] / [Nomor Rekening] / [Atas Nama]
+
+========================================
+CONTOH PENGISIAN FORM A1
+========================================
+
+Form Pengajuan A1
+
+Tanggal: 29-11-2024
+Nama: Budi Santoso
+Usaha: Warung Makan
+Plafon Pengajuan: Rp 75.000.000
+Tenor: 18 bulan
+Nomor Telepon: 081234567890
+Nama dan nomor HP pasangan: Siti Nurhaliza / 081234567891
+Bank/Nomor Rekening/Atas Nama: BCA / 1234567890 / Budi Santoso
+
+========================================
+FORM PENGAJUAN A2 (JAMINAN)
+========================================
+
+Form Pengajuan A2
+
+Tanggal: 29-11-2024
+Nama: [Nama Lengkap]
+Jenis Jaminan: [Jenis Jaminan]
+Nopol/a.n. BPKB: [Nopol] / [Atas Nama BPKB]
+Plafon Pengajuan: Rp [Nominal]
+Tenor: [Tenor dalam bulan]
+Nomor Telepon: [Nomor HP]
+Nama dan nomor HP pasangan: [Nama Pasangan] / [Nomor HP Pasangan]
+Bank/Nomor Rekening/Nama: [Nama Bank] / [Nomor Rekening] / [Atas Nama]
+
+========================================
+CONTOH PENGISIAN FORM A2
+========================================
+
+Form Pengajuan A2
+
+Tanggal: 29-11-2024
+Nama: Ahmad Wijaya
+Jenis Jaminan: BPKB Motor
+Nopol/a.n. BPKB: B 1234 XYZ / Ahmad Wijaya
+Plafon Pengajuan: Rp 30.000.000
+Tenor: 24 bulan
+Nomor Telepon: 081234567890
+Nama dan nomor HP pasangan: Dewi Lestari / 081234567891
+Bank/Nomor Rekening/Nama: Mandiri / 9876543210 / Ahmad Wijaya
+
+========================================
+FORM PENGAJUAN A3 (SEDERHANA)
+========================================
+
+Form Pengajuan A3
+
+Tanggal: 29-11-2024
+Nama: [Nama Lengkap]
+Plafon Pengajuan: Rp [Nominal]
+Bank/Nomor Rekening/Atas Nama: [Nama Bank] / [Nomor Rekening] / [Atas Nama]
+
+========================================
+CONTOH PENGISIAN FORM A3
+========================================
+
+Form Pengajuan A3
+
+Tanggal: 29-11-2024
+Nama: Rina Susanti
+Plafon Pengajuan: Rp 10.000.000
+Bank/Nomor Rekening/Atas Nama: BRI / 5555666677778888 / Rina Susanti
+
+========================================
+CATATAN PENTING
+========================================
+
+1. Format Tanggal:
+   - DD-MM-YYYY (29-11-2024)
+   - DD/MM/YYYY (29/11/2024)
+   - YYYY-MM-DD (2024-11-29)
+
+2. Format Nominal:
+   - Boleh pakai "Rp" atau tidak
+   - Boleh pakai titik/koma pemisah atau tidak
+   - Contoh: Rp 50.000.000 atau 50000000
+
+3. Format Pasangan:
+   - Pisahkan nama dan nomor dengan "/" atau "-"
+   - Contoh: Jane Doe / 081234567891
+
+4. Format Rekening:
+   - Pisahkan bank, nomor, dan nama dengan "/"
+   - Contoh: BCA / 1234567890 / John Doe
+
+5. Format Nopol/BPKB (Form A2):
+   - Pisahkan nopol dan nama dengan "/" atau "-"
+   - Contoh: B 1234 XYZ / John Doe
+
+6. Jangan ubah format field (Nama:, Tanggal:, dll)
+   Bot mendeteksi field berdasarkan nama field ini
+
+7. Field yang tidak wajib boleh dikosongkan
+
+========================================
+TIPS
+========================================
+
+✅ DO:
+- Copy paste template
+- Isi semua field yang tersedia
+- Gunakan format yang konsisten
+- Cek reply bot untuk memastikan data benar
+
+❌ DON'T:
+- Ubah nama field (Nama:, Tanggal:, dll)
+- Hapus field meskipun tidak diisi
+- Gunakan format yang berbeda-beda
+- Kirim form tanpa header "Form Pengajuan A1/A2/A3"
+
+========================================
+TROUBLESHOOTING
+========================================
+
+Q: Bot tidak merespon?
+A: Pastikan ada keyword "Form Pengajuan A1", "Form A1", dll di awal pesan
+
+Q: Data tidak lengkap?
+A: Cek format field sesuai panduan, terutama format tanggal, nominal, dan rekening
+
+Q: Nominal salah?
+A: Pastikan nominal menggunakan angka, boleh pakai Rp/titik/koma
+
+Q: Bot reply error?
+A: Cek console log atau hubungi admin untuk troubleshooting
+
+========================================
